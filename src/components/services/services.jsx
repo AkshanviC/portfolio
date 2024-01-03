@@ -31,7 +31,7 @@ const services = () => {
             </li>
             <li>
               <BiCheck className="service__icon"></BiCheck>
-              <p>Upgrade to React</p>
+              <p>Bug fixes and Enhancemnets</p>
             </li>
           </ul>
         </article>
